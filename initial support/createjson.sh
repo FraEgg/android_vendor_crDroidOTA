@@ -44,7 +44,7 @@ echo '{
         "oem": "'$oem'",
         "device": "'$devicename'",
         "filename": "'$zip_only'",
-        "download": "https://sourceforge.net/projects/crdroid/files/'$device'/'$v_max'.x/'$zip_only'/download",
+        "download": "https://'$LUIS_DOWNLOAD'/'$zip_only'",
         "timestamp": '$timestamp',
         "md5": "'$md5'",
         "size": '$size',
