@@ -1,7 +1,7 @@
 {
 	"response": [
 		{
-			"maintainer": "Lup Gabriel (gwolfu)",
+			"maintainer": "Frank Eggen (8224Freak)",
 			"oem": "OnePlus",
 			"device": "OnePlus 7 Pro",
 			"filename": "crDroidAndroid-10.0-20200101-guacamole-v6.1.zip",
@@ -11,14 +11,14 @@
 			"size": 918081184,
 			"version": "6.1",
 			"buildtype": "Nightly",
-			"forum": "https://forum.xda-developers.com/oneplus-7-pro/development/rom-crdroid-v6-t3982795",
+			"forum": "https://forum.xda-developers.com/member.php?u=8258181",
 			"gapps": "https://sourceforge.net/projects/opengapps/files/arm64/beta/",
 			"firmware": "",
 			"modem": "",
 			"bootloader": "",
-			"recovery": "https://forum.xda-developers.com/poco-f1/development/official-orangefox-recovery-project-t3909194",
-			"paypal": "https://bit.ly/2GFfDHk",
-			"telegram": "https://t.me/crDroidOP7Pro"
+			"recovery": "https://forum.xda-developers.com/oneplus-7-pro/development/recovery-unofficial-twrp-recovery-t3931322",
+			"paypal": "https://forum.xda-developers.com/donatetome.php?u=8258181",
+			"telegram": "https://t.me/rr_luisrom"
 		}
 	]
 }
