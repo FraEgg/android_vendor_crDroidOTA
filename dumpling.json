@@ -1,7 +1,7 @@
 {
   "response": [
     {
-        "maintainer": "Pranav Vashi (neobuddy89)",
+        "maintainer": "Frank Eggen (8224Freak)",
         "oem": "OnePlus",
         "device": "OnePlus 5T",
         "filename": "crDroidAndroid-10.0-20191231-dumpling-v6.1.zip",
@@ -11,14 +11,14 @@
         "size": 748705094,
         "version": "6.1",
         "buildtype": "Nightly",
-        "forum": "https://forum.xda-developers.com/oneplus-5t/development/rom-crdroid-android-6-t3972533",
+        "forum": "https://forum.xda-developers.com/member.php?u=8258181",
         "gapps": "https://sourceforge.net/projects/opengapps/files/arm64/beta/",
         "firmware": "https://sourceforge.net/projects/crdroid/files/dumpling/crdroid-6.x/firmware/firmware_9.0.9_oneplus5T.zip/download",
         "modem": "",
         "bootloader": "",
         "recovery": "https://sourceforge.net/projects/crdroid/files/dumpling/crdroid-6.x/recovery/twrp-3.3.1-20190908-0-codeworkx-signed-forcedecrypt-dumpling.img/download",
-        "paypal": "https://paypal.me/neobuddy89",
-        "telegram": "https://t.me/crDroid_OnePlus5_5T"
+        "paypal": "https://forum.xda-developers.com/donatetome.php?u=8258181",
+   			"telegram": "https://t.me/rr_luisrom"
     }
   ]
 }
