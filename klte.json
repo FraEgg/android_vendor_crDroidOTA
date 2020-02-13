@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+        "maintainer": "Frank Eggen (8224Freak)",
+        "oem": "Samsumg",
+        "device": "Samsung Galaxy S5",
+        "filename": "",
+        "download": "",
+        "timestamp": 1577731314,
+        "md5": "15d03cf5d817f25bd924aba9ba8ea784",
+        "size": 748705094,
+        "version": "6.1",
+        "buildtype": "Nightly",
+        "forum": "https://forum.xda-developers.com/member.php?u=8258181",
+        "gapps": "https://opengapps.org/?arch=arm&api=10.0&variant=pico",
+        "firmware": "https://www.sammobile.com/samsung/galaxy-s5/firmware/#SM-G900F",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "https://dl.twrp.me/klte/",
+        "paypal": "https://forum.xda-developers.com/donatetome.php?u=8258181",
+        "telegram": "https://t.me/rr_luisrom"
+    }
+  ]
+}
