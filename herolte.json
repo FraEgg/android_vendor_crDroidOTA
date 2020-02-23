@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+        "maintainer": "Frank Eggen (8224Freak)",
+        "oem": "Samsung",
+        "device": "Samsung Galaxy S7",
+        "filename": "",
+        "download": "",
+        "timestamp": 1577731314,
+        "md5": "15d03cf5d817f25bd924aba9ba8ea784",
+        "size": 748705094,
+        "version": "6.1",
+        "buildtype": "Nightly",
+        "forum": "https://forum.xda-developers.com/member.php?u=8258181",
+        "gapps": "https://opengapps.org/?arch=arm64&api=10.0&variant=pico",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "https://dl.twrp.me/herolte/",
+        "paypal": "https://forum.xda-developers.com/donatetome.php?u=8258181",
+        "telegram": "https://t.me/rr_luisrom"
+    }
+  ]
+}
