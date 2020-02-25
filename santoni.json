@@ -13,7 +13,7 @@
         "buildtype": "Nightly",
         "forum": "https://forum.xda-developers.com/member.php?u=8258181",
         "gapps": "https://sourceforge.net/projects/opengapps/files/arm64/beta/",
-        "firmware": "https://github.com/nvertigo/firmware-3t/tree/master/archive",
+        "firmware": "https://xiaomifirmwareupdater.com/firmware/santoni/",
         "modem": "",
         "bootloader": "",
         "recovery": "https://files.orangefox.tech/OrangeFox-Stable/santoni/",
