@@ -12,7 +12,7 @@
 			"version": "6.2",
 	        "buildtype": "Nightly",
 	        "forum": "https://forum.xda-developers.com/member.php?u=8258181",
-			"gapps": "https://sourceforge.net/projects/opengapps/files/arm64/beta",
+			"gapps": "https://opengapps.org/?arch=arm64&api=10.0&variant=pico",
 			"firmware": "https://xiaomifirmwareupdater.com/firmware/mido/",
 			"modem": "",
 			"bootloader": "",

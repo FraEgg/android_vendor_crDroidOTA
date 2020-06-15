@@ -12,7 +12,7 @@
         "version": "6.0",
         "buildtype": "Beta",
         "forum": "https://forum.xda-developers.com/oneplus-6/development/official-romcrdroid-t3984419",
-        "gapps": "",
+        "gapps": "https://opengapps.org/?arch=arm64&api=10.0&variant=pico",
         "firmware": "",
         "modem": "",
         "bootloader": "",

@@ -2,9 +2,9 @@
 	"response": [
 		{
 			"maintainer": "Frank Eggen (8224Freak)",
-			"oem": "OnePlus",
-			"device": "OnePlus 7 Pro",
-			"filename": "crDroidAndroid-10.0-20200101-guacamole-v6.1.zip",
+			"oem": "Xiaomi Redmi",
+			"device": "Xiaomi Redmi Note 8T",
+			"filename": "crDroidAndroid-10.0-20200101-ginkgo-v6.1.zip",
 			"download": "https://sourceforge.net/projects/crdroid/files/guacamole/6.x/crDroidAndroid-10.0-20200101-guacamole-v6.1.zip/download",
 			"timestamp": 1577906560,
 			"md5": "718d55a7991f2a0fb65e2585be6378c1",
@@ -13,10 +13,10 @@
 			"buildtype": "Nightly",
 			"forum": "https://forum.xda-developers.com/member.php?u=8258181",
 			"gapps": "https://opengapps.org/?arch=arm64&api=10.0&variant=pico",
-			"firmware": "",
+			"firmware": "https://forum.xda-developers.com/redmi-note-8/development/firmware-xiaomi-redmi-note-8-t3973285",
 			"modem": "",
 			"bootloader": "",
-			"recovery": "https://forum.xda-developers.com/oneplus-7-pro/development/recovery-unofficial-twrp-recovery-t3931322",
+			"recovery": "https://forum.xda-developers.com/redmi-note-8/development/recovery-unofficial-twrp-xiaomi-redmi-t3997267",
 			"paypal": "https://forum.xda-developers.com/donatetome.php?u=8258181",
 			"telegram": "https://t.me/rr_luisrom"
 		}
