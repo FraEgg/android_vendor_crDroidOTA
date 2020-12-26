@@ -1,7 +1,7 @@
 {
 	"response": [
 		{
-			"maintainer": "Pranav Vashi (neobuddy89)",
+	        "maintainer": "Frank Eggen (8224Freak)",
 			"oem": "OnePlus",
 			"device": "OnePlus 5T",
 			"filename": "crDroidAndroid-11.0-20201019-dumpling-v7.0.zip",
@@ -17,8 +17,8 @@
 			"modem": "",
 			"bootloader": "",
 			"recovery": "https://sourceforge.net/projects/crdroid/files/dumpling/crdroid-6.x/recovery/twrp-3.3.1-20190908-0-codeworkx-signed-forcedecrypt-dumpling.img/download",
-			"paypal": "https://paypal.me/neobuddy89",
-			"telegram": "https://t.me/crDroid_OnePlus5_5T"
+	        "paypal": "https://forum.xda-developers.com/donatetome.php?u=8258181",
+	        "telegram": "https://t.me/rr_luisrom"
 		}
 	]
 }
