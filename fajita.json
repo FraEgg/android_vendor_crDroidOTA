@@ -1,0 +1,24 @@
+{
+	"response": [
+		{
+			"maintainer": "Frank Eggen (8224Freak)",
+			"oem": "OnePlus",
+			"device": "OnePlus 6T",
+			"filename": "crDroidAndroid-11.0-20201019-guacamole-v7.0.zip",
+			"download": "//luis-builds.de/downloads/lineageos/cr/oneplus6t",
+			"timestamp": 1577906560,
+			"md5": "718d55a7991f2a0fb65e2585be6378c1",
+			"size": 918081184,
+			"version": "7.0",
+			"buildtype": "Nightly",
+			"forum": "https://forum.xda-developers.com/member.php?u=8258181",
+			"gapps": "https://nikgapps.com/",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://forum.xda-developers.com/t/recovery-3-4-0-11-fajita-official-unofficial-twrp-recovery-for-oneplus-6t-stable.3861482",
+			"paypal": "https://forum.xda-developers.com/donatetome.php?u=8258181",
+			"telegram": "https://t.me/rr_luisrom"
+		}
+	]
+}
