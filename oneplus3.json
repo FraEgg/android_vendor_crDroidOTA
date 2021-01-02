@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+        "maintainer": "Frank Eggen (8224Freak)",
+        "oem": "OnePlus",
+        "device": "OnePlus 3",
+		"filename": "crDroidAndroid-11.0-20201019-oneplus3-v7.0.zip",
+		"download": "//luis-builds.de/downloads/lineageos/cr/oneplus3",
+        "timestamp": 1577731314,
+        "md5": "15d03cf5d817f25bd924aba9ba8ea784",
+        "size": 748705094,
+        "version": "7.1",
+        "buildtype": "Nightly",
+        "forum": "https://forum.xda-developers.com/member.php?u=8258181",
+        "gapps": "https://opengapps.org/?arch=arm64&api=10.0&variant=pico",
+        "firmware": "https://github.com/nvertigo/firmware-3t/tree/master/archive",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "https://twrp.me/oneplus/oneplusthree.html",
+        "paypal": "https://forum.xda-developers.com/donatetome.php?u=8258181",
+        "telegram": "https://t.me/rr_luisrom"
+    }
+  ]
+}
