@@ -12,7 +12,7 @@
         "version": "7.1",
         "buildtype": "Nightly",
         "forum": "https://forum.xda-developers.com/member.php?u=8258181",
-        "gapps": "https://opengapps.org/?arch=arm64&api=10.0&variant=pico",
+        "gapps": "https://nikgapps.com/",
         "firmware": "https://github.com/nvertigo/firmware-3t/tree/master/archive",
         "modem": "",
         "bootloader": "",

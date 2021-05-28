@@ -1,0 +1,24 @@
+{
+	"response": [
+		{
+			"maintainer": "Frank Eggen (8224Freak)",
+			"oem": "Xiaomi",
+			"device": "Redmi Note 4",
+			"filename": "crDroidAndroid-11.0-20200124-mido-v7.2.zip",
+			"download": "https://sourceforge.net/projects/crdroid/files/mido/6.x/crDroidAndroid-10.0-20200124-mido-v6.2.zip/download",
+			"timestamp": 1579835965,
+			"md5": "4bf2d18da58b7f42a82b17c0b20dca67",
+			"size": 612152414,
+			"version": "6.2",
+	        "buildtype": "Nightly",
+	        "forum": "https://forum.xda-developers.com/member.php?u=8258181",
+	        "gapps": "https://nikgapps.com/",
+			"firmware": "https://xiaomifirmwareupdater.com/firmware/mido/",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://dl.twrp.me/mido/",
+	        "paypal": "https://forum.xda-developers.com/donatetome.php?u=8258181",
+	        "telegram": "https://t.me/rr_luisrom"
+		}
+	]
+}
